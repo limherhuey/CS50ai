@@ -4,7 +4,7 @@
 This repository contains my solutions to the projects in this course. All projects here passed all requirements as of 2020.
 
 ## Table of Contents
-* [Project 0](<Week 0/>)
+* [Project 0: Search](<Week 0/>)
     - [Degrees](Week%200/degrees/) - [problem description](https://cs50.harvard.edu/ai/2020/projects/0/degrees/)
     - [Tic-Tac-Toe](Week%200/tictactoe/) - [problem description](https://cs50.harvard.edu/ai/2020/projects/0/tictactoe/)
 
